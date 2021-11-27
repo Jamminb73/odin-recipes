@@ -1,0 +1,18 @@
+body {
+    max-width: 1100px;
+    text-align: center;
+    margin: 1rem auto;
+}
+
+.image {
+    margin: 1rem auto;
+}
+
+ul {
+    list-style: none;
+}
+
+li img {
+    width: 20rem;
+    height: 20rem;
+}
